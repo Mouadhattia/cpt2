@@ -1,0 +1,174 @@
+
+body{
+    margin:0;
+    padding:0;
+    background-image: url("https://www.arpaindustriale.com/sites/default/files/styles/decor_default/public/decors_fiches_default/0702_r.jpg?itok=qMNGHj2C");
+    background-repeat: repeat-y;       
+}
+div {
+     text-align: right;
+     padding: 2%;      
+}
+div a{
+    margin: 0.5%;
+    padding: 0.5%;
+}
+a:hover {
+    font-size: 1.5em;
+    color: red;
+}
+#logo{
+    width: 10%;
+    height: 10%;
+    position:fixed ;
+    bottom: 83%;
+  right: 17%;  
+}
+#me{
+    position:fixed ;
+    
+    width: 25%;
+    height: 70%;
+    margin-left: 20% ;
+    border-style: outset;
+    bottom: 12%;
+  right: 55%;
+}
+h1{
+    position:fixed ;
+    bottom: 60%;
+  right: 38%;
+  width: 15%;
+}
+#p1{
+    position:fixed ;
+    bottom: 52%;
+  right: 38%;
+  width: 15%;
+}
+#p2{
+  position:fixed ;
+  bottom: 40%;
+  right: 38%;
+  width: 15%;  
+}
+#tazza{
+    color:rgb(8, 8, 90)
+}
+#f,#I,#fp {
+   
+    width: 2.5%;
+    height: 3.5%;    
+}
+#I{
+    position:fixed ;
+    bottom: 23%;
+  right: 96%;
+}
+#f {
+    position:fixed ;
+    bottom: 23%;
+  right: 90%;
+}
+#fp{
+    position:fixed ;
+    bottom: 23%;
+  right: 85%;
+}
+ul {
+    list-style-type: none;
+}
+#info {
+    position:fixed ;
+    bottom: 30%;
+  right: 85%;
+  color:aliceblue
+}
+#a,#b,#c,#d{
+width: 14%;
+height: 25%;
+
+}
+#a{
+  position:fixed ;
+    bottom: 55%;
+  right: 20%;
+  border-style: outset;
+}
+#b{
+  position:fixed ;
+    bottom: 55%;
+  right: 5%;
+  border-style: outset;
+}
+#c{
+  position:fixed ;
+    bottom: 25%;
+  right: 5%;
+  border-style: outset;
+}
+#d{
+  position:fixed ;
+    bottom: 25%;
+  right: 20%;
+  border-style: outset;
+}
+p{
+  font-size: 100%;
+  font-family: 'Comfortaa', cursive;
+}
+#facebook{
+  position:fixed ;
+  bottom: 17%;
+right: 89.5%;
+}
+#insta{
+  position:fixed ;
+  bottom: 17%;
+right: 95%;
+}
+#page{
+  position:fixed ;
+  bottom: 17%;
+right: 85%;
+}
+#facebook,#page,#insta{
+  color:aliceblue
+}
+#projects{
+  position:fixed ;
+  bottom: 30%;
+  right: 45%;
+  border-radius: 30px;
+  border: 0px solid #000000;
+  padding: 10px; 
+  background: #0621b8;
+  color:cornsilk; 
+}
+#resume{
+  position:fixed ;
+  bottom: 30%;
+  right: 37%;
+  border-radius: 30px;
+  border: 2px solid #0621b8;
+  padding: 8px; 
+  color :#0621b8
+}
+.topnav{
+  font-size: 21px; 
+}
+#t{ 
+  color: aliceblue;
+  border-radius: 30px;
+  border: 0px solid #000000;
+  padding: 8px; 
+  background: #0621b8;
+  text-decoration: none;     
+}
+#noobs{
+  color:#0621b8
+}
+
+
+
+
